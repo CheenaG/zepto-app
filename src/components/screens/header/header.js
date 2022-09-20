@@ -20,7 +20,7 @@ const Header = () => {
               <div className="col-lg-8 row nav_right">
                 <div className="col-lg-3">
                   <button className="nav_btn" onClick={() => navigateFunc("")}>
-                    Home
+                    home
                   </button>
                 </div>
                 <div className="col-lg-3">
