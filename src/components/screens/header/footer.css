@@ -1,0 +1,36 @@
+.footer_div{
+    background-color: #260242;
+    height: 95vh;
+    width:100vw;
+}
+.footer_img{
+    width:300px;
+    height: 200px;
+}
+.footer_links{
+  padding:20px;
+    
+
+}
+ul li{
+    list-style-type: none;
+    padding:15px;
+    
+    
+}
+li a{
+    text-decoration: none;
+    color:white;
+    font-size: 30px;
+    
+}
+span{
+    padding:10px;
+    font-size: 25px;
+}
+.footer_text a{
+    color:white;
+    font-size: 30px;
+    text-decoration: underline;
+}
+

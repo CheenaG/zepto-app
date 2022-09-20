@@ -1,0 +1,36 @@
+.deliver_heading{
+    font-size: 30px;
+   text-align: center;
+   font-weight: bold;
+   color:rgba(247, 247, 247, 0.881);
+   margin-top: 50px;
+    
+
+   
+}
+.deliver_box{
+   
+    background-color: #260242;
+    height:550px;
+   
+}
+.marquee_list span {
+
+color:white;
+font-size: 60px;
+font-weight: bold;
+margin:50px;
+
+}
+
+
+
+.deliver_para{
+    margin-top: 30px;
+    font-size: 30px;
+    color:white;
+    text-align: center;
+    
+
+}
+

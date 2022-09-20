@@ -1,0 +1,31 @@
+h2{
+    text-align: center;
+    color:#be84d8;
+    font-weight: bold;
+    font-size: 30px;
+    padding:100px 100px;
+}
+.happy_div{
+    background-color:#3c006b;
+    max-height:200%;
+
+}
+.happy_main{
+    background-image: linear-gradient(to right, rgb(218, 100, 161) , rgb(117, 12, 117));
+    border-radius: 20px;
+    margin: 40px;
+    
+    
+    
+}
+.happy_text{
+    font-size: 50px;
+    font-weight: bold;
+    color:white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.happy_name{
+    color:white;
+    font-size: 40px;
+    
+}

@@ -1,0 +1,45 @@
+.howitworks_div{
+    background-color: #3c006b;
+    height:120vh;
+    padding:40px;
+    
+   
+}
+.howitworks_heading{
+    color:white;
+    font-size:30px;
+    font-weight: bold;
+    text-align: center;
+    padding:40px;
+    
+    
+}
+.border-para{
+    margin: auto;
+    padding:60px;
+    width:84vw;
+    height:100vh;
+    border:4px solid #fc4c5e;
+    border-radius: 20px;
+   
+
+}
+.img_hiw{
+    width:220px;
+    height: 200px;
+    margin-left: 70px;
+}
+.hiw_1{
+    color:white;
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 30px;
+    margin-bottom:30px;
+
+}
+.hiw_2{
+    color:white;
+    font-size:30px;
+    font-weight: bold;
+    margin-left: 30px;
+}

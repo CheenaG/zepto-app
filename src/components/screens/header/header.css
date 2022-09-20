@@ -1,0 +1,41 @@
+.logo_img{
+    width:80%;
+    height:80%;
+}
+.logo_img:hover{
+    border:2px solid white;
+}
+.main_container{
+    
+    background-color: #260242;
+    height: 270px;
+    text-align: center;
+}
+.nav_right{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.nav_right a{
+    text-decoration: none;
+    color:white;
+    font-size: 25px;
+    margin:0px;
+}
+.hiring_div{
+    background-color: green;
+    color:#fff;
+   text-align: center;
+   width:45%;
+   border-radius:20px ;
+   padding:5px 0px;
+   border:1px solid white;
+   
+}
+.nav_btn{
+    background-color:transparent;
+    color:#fff;
+    border: none;
+    font-size: 30px;
+}
